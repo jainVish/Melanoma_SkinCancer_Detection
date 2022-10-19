@@ -1,1 +1,1 @@
-# Melanoma_SkinCancer_Detection.ipynb
+# Melanoma_SkinCancer_Detection
